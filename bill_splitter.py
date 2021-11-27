@@ -15,3 +15,4 @@ bill = 150
 people = 5
 
 print("Each person needs to pay", "{:.2f}".format(tip_calculator(bill, people)), "€.")
+
